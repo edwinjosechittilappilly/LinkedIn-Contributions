@@ -1,4 +1,7 @@
 # Feb 21,2024
+## Quantum Cryptography
+https://www.linkedin.com/advice/1/how-can-grovers-algorithm-combined-other-quantum?contributionUrn=urn%3Ali%3Acomment%3A%28urn%3Ali%3AarticleSegment%3A%28urn%3Ali%3AlinkedInArticle%3A7053814620045611008%2C7053814622721568768%29%2C7166213279680319490%29&trk=rtyc&utm_source=share&utm_campaign=copy_contribution_link&utm_medium=member_desktop&articleSegmentUrn=urn%3Ali%3AarticleSegment%3A%28urn%3Ali%3AlinkedInArticle%3A7053814620045611008%2C7053814622721568768%29&dashContributionUrn=urn%3Ali%3Afsd_comment%3A%287166213279680319490%2Curn%3Ali%3AarticleSegment%3A%28urn%3Ali%3AlinkedInArticle%3A7053814620045611008%2C7053814622721568768%29%29
+
 ## Quantum Error Correction
 https://www.linkedin.com/advice/1/how-can-grovers-algorithm-combined-other-quantum?contributionUrn=urn%3Ali%3Acomment%3A%28urn%3Ali%3AarticleSegment%3A%28urn%3Ali%3AlinkedInArticle%3A7053814620045611008%2C7053814622713188352%29%2C7166212659346956288%29&trk=rtyc&utm_source=share&utm_campaign=copy_contribution_link&utm_medium=member_desktop&articleSegmentUrn=urn%3Ali%3AarticleSegment%3A%28urn%3Ali%3AlinkedInArticle%3A7053814620045611008%2C7053814622713188352%29&dashContributionUrn=urn%3Ali%3Afsd_comment%3A%287166212659346956288%2Curn%3Ali%3AarticleSegment%3A%28urn%3Ali%3AlinkedInArticle%3A7053814620045611008%2C7053814622713188352%29%29
 
