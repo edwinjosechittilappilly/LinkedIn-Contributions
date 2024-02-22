@@ -1,3 +1,6 @@
+# Feb 22
+- https://www.linkedin.com/advice/0/what-best-methods-tools-detect-correct-errors?trk=cah1&utm_source=share&utm_campaign=copy_contribution_link&utm_medium=member_desktop&contributionUrn=urn%3Ali%3Acomment%3A%28urn%3Ali%3AarticleSegment%3A%28urn%3Ali%3AlinkedInArticle%3A7052305011267002368%2C7052305013888409600%29%2C7166553546761424896%29&articleSegmentUrn=urn%3Ali%3AarticleSegment%3A%28urn%3Ali%3AlinkedInArticle%3A7052305011267002368%2C7052305013888409600%29&dashContributionUrn=urn%3Ali%3Afsd_comment%3A%287166553546761424896%2Curn%3Ali%3AarticleSegment%3A%28urn%3Ali%3AlinkedInArticle%3A7052305011267002368%2C7052305013888409600%29%29
+- 
 # Feb 21,2024
 - https://www.linkedin.com/advice/3/what-some-open-questions-future-directions-quantum?trk=cah1&utm_source=share&utm_campaign=copy_contribution_link&utm_medium=member_desktop&contributionUrn=urn%3Ali%3Acomment%3A%28articleSegment%3A%28urn%3Ali%3AlinkedInArticle%3A7069379125714530304%2C7069379128184954880%29%2C7163212910750588928%29&articleSegmentUrn=urn%3Ali%3AarticleSegment%3A%28urn%3Ali%3AlinkedInArticle%3A7069379125714530304%2C7069379128184954880%29&dashContributionUrn=urn%3Ali%3Afsd_comment%3A%287163212910750588928%2CarticleSegment%3A%28urn%3Ali%3AlinkedInArticle%3A7069379125714530304%2C7069379128184954880%29%29
 
